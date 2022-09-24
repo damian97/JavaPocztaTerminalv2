@@ -1,0 +1,3 @@
+From:1,to:1,title:Test wiadomosci w konsoli
+**********************************************************
+To jest wiadomosc testowo
